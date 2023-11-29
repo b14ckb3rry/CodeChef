@@ -35,7 +35,7 @@ void solve()
     }
     // while (br > 0 && gr > 0)
     // {
-    //     br--;
+    //     br--;                // While Loop Cause TLE
     //     gr--;
     // }
     int mx = max(br, gr);
